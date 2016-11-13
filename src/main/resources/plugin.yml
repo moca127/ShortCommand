@@ -1,0 +1,10 @@
+name: ShortCommand
+main: kr.mocha.ShortCommand
+author: mocha
+version: 1.0-SNAPSHOT
+api: [1.0.0]
+description: "Shorten command for nukkit"
+
+permissions :
+ shorten.cmd :
+  default : OP
